@@ -7,7 +7,7 @@ In the directory "BTT_Octopus_V1.1_Color_PIN_Diagram" you will find the "Color P
 
 ## A Picture of the "Color PIN Diagram" for the Octopus Pro V1.0:
 
-![JPG of Color PIN Diagram](/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V2.0.jpg)
+![JPG of Color PIN Diagram](/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V2.0-600ppi.jpg)
 
 
 ## A Picture of the "Color PIN Diagram" for the Octopus V1.0 and Octopus V1.1 Board:
