@@ -6,8 +6,7 @@ This repository contains JPG and PDF files for the BIGTREETECH's Octopus V1.1 bo
 
 ### Why use the PDF file of the "Color PIN Diagram":
 
-The PDF file looks the same as the JPG file. You can enlarge the image for both file types to
-get all the details, but the PDF file contains URL links that will take you to websites that contain further information.  For example there are URL links that will take you to the processor datasheet.  If the color diagram contains a URL in text then just click on the URL and the PDF  will take you to that URL.
+The PDF file looks the same as the JPG file. You can enlarge the image for both file types to get all the details, but the PDF file contains URL links that will take you to websites that contain further information.  For example there are URL links that will take you to the processor datasheet.  If the color diagram contains a URL in text then just click on the URL and the PDF  will take you to that URL.
 
 You can view the PDF in your browser by clicking on the filename "BIGTREETECH-Octopus-V1.1-color-PIN.pdf" and then hit the download button.
 

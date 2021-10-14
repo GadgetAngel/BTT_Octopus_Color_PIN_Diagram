@@ -6,16 +6,17 @@ This repository contains JPG and PDF files for the BIGTREETECH's Octopus Pro V1.
 
 ### Why use the PDF file of the "Color PIN Diagram":
 
-The PDF file looks the same as the JPG file. You can enlarge the image for both file types to
-get all the details, but the PDF file contains URL links that will take you to websites that contain further information.  For example there are URL links that will take you to the processor datasheet.  If the color diagram contains a URL in text then just click on the URL and the PDF  will take you to that URL.
+The PDF file looks the same as the JPG file. You can enlarge the image for both file types to get all the details, but the PDF file contains URL links that will take you to websites that contain further information.  For example there are URL links that will take you to the processor datasheet.  If the color diagram contains a URL in text then just click on the URL and the PDF  will take you to that URL.
 
-You can view the PDF in your browser by clicking on the filename "BIGTREETECH-Octopus-Pro-color-PIN-V2.0.pdf" and then hit the download button.
+You can view the PDF in your browser by clicking on the filename "BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V2.pdf" and then hit the download button.
+
+You can view an even higher resolution image when you view the PDF in you browser by clicking on the filename "BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V2.-600ppi.pdf" and then hit the download button.
 
 ## A Picture of the "Color PIN Diagram" for the Octopus Pro V1.0:
 
-You can download the JPG file for this "Color PIN Diagram" by clicking on the file "BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V2.0.jpg" and then hit the download button.  Again, to download the PDF just click on the filename "BIGTREETECH-Octopus-Pro-color-PIN-V2.0.pdf" and hit the download button.
+You can download the JPG file for this "Color PIN Diagram" by clicking on the file "BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V2.0.jpg" and then hit the download button.  Again, to download the PDF just click on the filename "BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V2..pdf" or the filename "BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V2.-600ppi.pdf" and hit the download button.
 
-![JPG of Color PIN Diagram](BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V2.0.jpg)
+![JPG of Color PIN Diagram](BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V2.0-600ppi.jpg)
 
 ## Picture of the Original PIN Diagram from Bigtreetech for the Octopus Pro V1.0:
 
@@ -39,7 +40,7 @@ There is only two PIN that are different between the Octopus V1.1 pin-out and th
 
 The second PIN difference is that on the Octopus V1.1 pin-out PB7 is the signal PIN used on the PROBE/SENSOR connector and on the BLTouch header but on the Octopus Pro V1.0 the signal pin on the PROBE connector is PC5.  Which means that on the Octopus V1.1 board you can only use either a BLTouch or a Proximity Sensor but NOT both. On the Octopus Pro V1.0 since the signal pins for the PROBE connector is different from the BLTouch, if you wanted to, you could use both ports.
 
-If you plan to use a voltage higher than 24V on MOTOR_POWER_IN then please pay attention to the following footnotes on the "Color PIN Diagram": 1 and 5.
+If you plan to use a voltage higher than 24V on MOTOR_POWER_IN then please pay attention to the following footnotes on the "Color PIN Diagram": 1 and 3.
 
 Please use the "Color PIN Diagram" in this repository to obtain the correct PIN assigments.
 
