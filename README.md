@@ -1,4 +1,4 @@
-# This Repository holds the "Color PIN Diagarams" for the Bigtreetech Octopus V1.0/V1.1 and the Octopus Pro 1.0 boards
+## This Repository holds the "Color PIN Diagarams" for the Bigtreetech Octopus V1.0/V1.1 and the Octopus Pro 1.0 boards
 
 In the directory "BTT_Octopus_Pro_V1.0_Color_PIN_Diagram" you will find the "Color PIN Diagram" for the Octopus Pro V1.0 Board.
 
