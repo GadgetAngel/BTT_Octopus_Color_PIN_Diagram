@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Bug report for BTT_SKR_13_14_14T_SD-DFU-Bootloader
+about: Bug report for BTT_Octopus_Color_PIN_Diagram
 title: "[BUG] (short description)"
 labels: ''
 assignees: ''
@@ -15,7 +15,7 @@ Please follow the instructions below. Failure to do so may result in your issue 
 
 1. Fill out every section of the template below.
 
-2. Read and understand Marlin's Code of Conduct. By filing an Issue, you are expected to comply with it, including treating everyone with respect: https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/master/.github/code_of_conduct.md
+2. Read and understand GadgetAngel's Code of Conduct. By filing an Issue, you are expected to comply with it, including treating everyone with respect: https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/.github/code-of-conduct.md
 
 -->
 ### Bug Description

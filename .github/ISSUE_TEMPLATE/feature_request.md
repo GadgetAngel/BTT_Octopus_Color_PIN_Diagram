@@ -9,7 +9,7 @@ assignees: ''
 
 <!--
 
-Have you read GadgetAngel's Code of Conduct? By filing an Issue, you are expected to comply with it, including treating everyone with respect: https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/master/.github/code_of_conduct.md
+Have you read GadgetAngel's Code of Conduct? By filing an Issue, you are expected to comply with it, including treating everyone with respect: https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/.github/code-of-conduct.md
 
 -->
 

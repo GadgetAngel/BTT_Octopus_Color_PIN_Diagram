@@ -59,7 +59,7 @@ When you are creating an enhancement suggestion, please [include as many details
 Feature Requests are tracked as [GitHub issues](https://guides.github.com/features/issues/). Please follow these guidelines in your request:
 
 * **Use a clear and descriptive title** for the issue to identify the suggestion.
-* **Include screenshots and links to videos** which demonstrate the feature or point out the part of Marlin to which the request is related.
+* **Include screenshots and links to videos** which demonstrate the feature or point out the part of the "Color PIN Diagram" to which the request is related.
 * **Explain why this feature would be useful** to most readers.
 
 ### Pull Requests
