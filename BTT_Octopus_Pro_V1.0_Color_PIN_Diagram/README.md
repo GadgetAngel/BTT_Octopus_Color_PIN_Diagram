@@ -8,7 +8,7 @@ This repository contains JPG and PDF files for the BIGTREETECH's Octopus Pro V1.
 
 The PDF file looks the same as the JPG file. You can enlarge the image for both file types to get all the details, but the PDF file contains URL links that will take you to websites that contain further information.  For example there are URL links that will take you to the processor datasheet.  If the color diagram contains a URL in text then just click on the URL and the PDF  will take you to that URL.
 
-You can view the PDF in your browser by clicking on the filename ["BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V2.2.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_DiagramBIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V2.2.pdf) and then hit the download button.
+You can view the PDF in your browser by clicking on the filename ["BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V2.2.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V2.2.pdf) and then hit the download button.
 
 You can view an even higher resolution image when you view the PDF in you browser by clicking on the filename ["BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V2.2-600ppi.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V2.2-600ppi.pdf) and then hit the download button.
 
