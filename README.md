@@ -17,7 +17,7 @@ Now open Window explorer to the location of local clone.
 ```
 ## The Whole Repository in .zip file is located on Google Drive at: 
 
-## xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+## https://drive.google.com/file/d/1PZ0gGJF_ly8FIHXjVMU8vZCOrHwK2xWf/view?usp=sharing
 
 
 ## This Repository holds the "Color PIN Diagarams" for the Bigtreetech Octopus V1.0/V1.1 and the Octopus Pro V1.0 boards
