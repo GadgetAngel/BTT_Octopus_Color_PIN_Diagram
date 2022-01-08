@@ -8,15 +8,15 @@ This repository contains JPG and PDF files for the BIGTREETECH's Octopus Pro V1.
 
 The PDF file looks the same as the JPG file. You can enlarge the image for both file types to get all the details, but the PDF file contains URL links that will take you to websites that contain further information.  For example there are URL links that will take you to the processor datasheet.  If the color diagram contains a URL in text then just click on the URL and the PDF  will take you to that URL.
 
-You can view the PDF in your browser by clicking on the filename ["BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V2.2.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V2.2.pdf) and then hit the download button.
+You can view the PDF in your browser by clicking on the filename ["BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V3.0.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V3.0.pdf) and then hit the download button.
 
-You can view an even higher resolution image when you view the PDF in you browser by clicking on the filename ["BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V2.2-600ppi.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V2.2-600ppi.pdf) and then hit the download button.
+You can view an even higher resolution image when you view the PDF in you browser by clicking on the filename ["BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V3.0-400ppi.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V3.0-400ppi.pdf) and then hit the download button.
 
 ## A Picture of the "Color PIN Diagram" for the Octopus Pro V1.0:
 
-You can download the JPG file for this "Color PIN Diagram" by clicking on the filename ["BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V2.2.jpg"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V2.2.jpg) or the filename ["BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V2.2-600ppi.jpg"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V2.2-600ppi.jpg) and then hit the download button.  Again, to download the PDF just click on the filename ["BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V2.2.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V2.2.pdf) or the filename ["BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V2.2-600ppi.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V2.2-600ppi.pdf) and hit the download button.
+You can download the JPG file for this "Color PIN Diagram" by clicking on the filename ["BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V3.0.jpg"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V3.0.jpg) or the filename ["BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V3.0-400ppi.jpg"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V3.0-400ppi.jpg) and then hit the download button.  Again, to download the PDF just click on the filename ["BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V3.0.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V3.0.pdf) or the filename ["BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V3.0-400ppi.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V3.0-400ppi.pdf) and hit the download button.
 
-![JPG of Color PIN Diagram](BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V2.2.jpg)
+![JPG of Color PIN Diagram](BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V3.0.jpg)
 
 ## Picture of the Original PIN Diagram from Bigtreetech for the Octopus Pro V1.0:
 
@@ -33,6 +33,8 @@ The Bigtreetech Github repository is located at https://github.com/bigtreetech/B
 ## Klipper firmware supports the Octopus Pro V1.0 board:
 
 Here is the link to the config file on github for the Octopus pro V1.0 board https://github.com/Klipper3d/klipper/blob/master/config/generic-bigtreetech-octopus.cfg.
+
+Here is the linkt to the Klipper configuration file for the Voron 2.4 printer on the Voron 2.4 github site https://github.com/VoronDesign/Voron-2/blob/Voron2.4/firmware/klipper_configurations/Octopus/Voron2_Octopus_Config.cfg
 
 If you are using the "PROBE" connector for a proximity sensor you will need to add a [probe] section to the "generic-bigtreetech-octopus.cfg" file and ensure that the sensor_pin: PC5
 
