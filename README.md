@@ -30,7 +30,7 @@ In the directory ["BTT_Octopus_V1.1_Color_PIN_Diagram"](https://github.com/Gadge
 
 ## A Picture of the "Color PIN Diagram" for the Octopus Pro V1.0:
 
-![JPG of Color PIN Diagram for PRO](/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V2.2.jpg)
+![JPG of Color PIN Diagram for PRO](/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V3.0.jpg)
 
 
 ## A Picture of the "Color PIN Diagram" for the Octopus V1.0 and Octopus V1.1 Board:
