@@ -43,7 +43,7 @@ The Bigtreetech Github repository is located at https://github.com/bigtreetech/B
 
 Here is the link to the config file on github for the Octopus V1.1 board https://github.com/Klipper3d/klipper/blob/master/config/generic-bigtreetech-octopus.cfg.
 
-Here is the linkt to the Klipper configuration file for the Voron 2.4 printer on the Voron 2.4 github site https://github.com/VoronDesign/Voron-2/blob/Voron2.4/firmware/klipper_configurations/Octopus/Voron2_Octopus_Config.cfg
+Here is the link to the Klipper configuration file for the Voron 2.4 printer on the Voron 2.4 github site https://github.com/VoronDesign/Voron-2/blob/Voron2.4/firmware/klipper_configurations/Octopus/Voron2_Octopus_Config.cfg
 
 Since the PB7 PIN is shared between the PROBE connector and the BLTouch header you will only be able to use one of these two connectors.
 

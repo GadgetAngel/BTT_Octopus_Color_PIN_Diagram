@@ -34,7 +34,7 @@ The Bigtreetech Github repository is located at https://github.com/bigtreetech/B
 
 Here is the link to the config file on github for the Octopus pro V1.0 board https://github.com/Klipper3d/klipper/blob/master/config/generic-bigtreetech-octopus.cfg.
 
-Here is the linkt to the Klipper configuration file for the Voron 2.4 printer on the Voron 2.4 github site https://github.com/VoronDesign/Voron-2/blob/Voron2.4/firmware/klipper_configurations/Octopus/Voron2_Octopus_Config.cfg
+Here is the link to the Klipper configuration file for the Voron 2.4 printer on the Voron 2.4 github site https://github.com/VoronDesign/Voron-2/blob/Voron2.4/firmware/klipper_configurations/Octopus/Voron2_Octopus_Config.cfg
 
 If you are using the "PROBE" connector for a proximity sensor you will need to add a [probe] section to the "generic-bigtreetech-octopus.cfg" file and ensure that the sensor_pin: PC5
 
