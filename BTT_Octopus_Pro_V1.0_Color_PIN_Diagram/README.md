@@ -6,11 +6,11 @@ This repository contains JPG and PDF files for the BIGTREETECH's Octopus Pro V1.
 
 ### Why use the PDF file of the "Color PIN Diagram":
 
-The PDF file looks the same as the JPG file. You can enlarge the image for both file types to get all the details, but the PDF file contains URL links that will take you to websites that contain further information.  For example there are URL links that will take you to the processor datasheet.  If the color diagram contains a URL in text then just click on the URL and the PDF  will take you to that URL.
+The PDF file looks the same as the JPG file. You can enlarge the image for both file types to get all the details, but the PDF file contains URL links that will take you to websites that contain further information.  For example there are URL links that will take you to the processor data sheet.  If the color diagram contains a URL in text then just click on the URL and the PDF will take you to that URL.
 
 You can view the PDF in your browser by clicking on the filename ["BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V3.0.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V3.0.pdf) and then hit the download button.
 
-You can view an even higher resolution image when you view the PDF in you browser by clicking on the filename ["BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V3.0-400ppi.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V3.0-400ppi.pdf) and then hit the download button.
+You can view an even higher resolution image when you view the PDF in your browser by clicking on the filename ["BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V3.0-400ppi.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN-V3.0-400ppi.pdf) and then hit the download button.
 
 ## A Picture of the "Color PIN Diagram" for the Octopus Pro V1.0:
 
@@ -28,25 +28,25 @@ Again, to download the PDF just click on the filename ["BIGTREETECH-Octopus-Pro-
 
 ![Original Wiring Diagram](images/BIGTREETECH-Octopus-Pro-V1.0-Original-Wiring-Diagram.jpg)
 
-## Bigtreetech has a Github repository for the Octopus Pro V1.0:
+## Bigtreetech has a GitHub repository for the Octopus Pro V1.0:
 
-The Bigtreetech Github repository is located at https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro
+The Bigtreetech GitHub repository is located at https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro
 
 ## Klipper firmware supports the Octopus Pro V1.0 board:
 
-Here is the link to the config file on github for the Octopus pro V1.0 board https://github.com/Klipper3d/klipper/blob/master/config/generic-bigtreetech-octopus.cfg.
+Here is the link to the config file on GitHub for the Octopus pro V1.0 board https://github.com/Klipper3d/klipper/blob/master/config/generic-bigtreetech-octopus.cfg.
 
-Here is the link to the Klipper configuration file for the Voron 2.4 printer on the Voron 2.4 github site https://github.com/VoronDesign/Voron-2/blob/Voron2.4/firmware/klipper_configurations/Octopus/Voron2_Octopus_Config.cfg
+Here is the link to the Klipper configuration file for the Voron 2.4 printer on the Voron 2.4 GitHub site https://github.com/VoronDesign/Voron-2/blob/Voron2.4/firmware/klipper_configurations/Octopus/Voron2_Octopus_Config.cfg
 
 If you are using the "PROBE" connector for a proximity sensor you will need to add a [probe] section to the "generic-bigtreetech-octopus.cfg" file and ensure that the sensor_pin: PC5
 
-There is only two PIN that are different between the Octopus V1.1 pin-out and the Octopus Pro V1.0 pin-out. The Octopus V1.1 pin-out has PC5 on the EXP2 connector but on the Octopus Pro V1.0 this pin on the EXP2 connector is now "Not Connected (NC)".
+There is only two PINs that are different between the Octopus V1.1 pin-out and the Octopus Pro V1.0 pin-out. The Octopus V1.1 pin-out has PC5 on the EXP2 connector but on the Octopus Pro V1.0 this pin on the EXP2 connector is now "Not Connected (NC)".
 
 The second PIN difference is that on the Octopus V1.1 pin-out PB7 is the signal PIN used on the PROBE/SENSOR connector and on the BLTouch header but on the Octopus Pro V1.0 the signal pin on the PROBE connector is PC5.  Which means that on the Octopus V1.1 board you can only use either a BLTouch or a Proximity Sensor but NOT both. On the Octopus Pro V1.0 since the signal pins for the PROBE connector is different from the BLTouch, if you wanted to, you could use both ports.
 
 If you plan to use a voltage higher than 24V on MOTOR_POWER_IN then please pay attention to the following footnotes on the "Color PIN Diagram": 1 and 3.
 
-Please use the "Color PIN Diagram" in this repository to obtain the correct PIN assigments.
+Please use the "Color PIN Diagram" in this repository to obtain the correct PIN assignments.
 
-If you decide to flash a new bootloader to the Octopus Pro V1.0 board (you should not need to because you can upload the new Klipper firmware using the micro-SD card reader) and find that the micro-SD card bootloader no longer works you will want to return the board to it's shipment state by finding the original bootloader and "bootlaoder+firmware" files at https://github.com/GadgetAngel/BTT_SKR_13_14_14T_SD-DFU-Bootloader/tree/main/bootloader_bin/backed_up_original_bootloaders
+If you decide to flash a new bootloader to the Octopus Pro V1.0 board (you should not need to because you can upload the new Klipper firmware using the micro-SD card reader) and find that the micro-SD card bootloader no longer works you will want to return the board to its shipment state by finding the original bootloader and "bootloader+firmware" files at https://github.com/GadgetAngel/BTT_SKR_13_14_14T_SD-DFU-Bootloader/tree/main/bootloader_bin/backed_up_original_bootloaders
 
