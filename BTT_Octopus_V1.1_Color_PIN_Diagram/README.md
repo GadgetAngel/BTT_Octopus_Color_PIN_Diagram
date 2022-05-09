@@ -8,11 +8,11 @@ This repository contains JPG and PDF files for the BIGTREETECH's Octopus V1.1 bo
 
 The PDF file looks the same as the JPG file. You can enlarge the image for both file types to get all the details, but the PDF file contains URL links that will take you to websites that contain further information.  For example there are URL links that will take you to the processor data sheet.  If the color diagram contains a URL in text then just click on the URL and the PDF will take you to that URL.
 
-You can view the PDF in your browser by clicking on the filename ["BIGTREETECH-Octopus-V1.1-color-PIN.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_V1.1_Color_PIN_Diagram/BIGTREETECH-Octopus-V1.1-color-PIN.pdf) and then hit the download button.
+You can view the PDF in your browser by clicking on the filename ["BIGTREETECH-Octopus-1.1-color-PIN.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_V1.1_Color_PIN_Diagram/BIGTREETECH-Octopus-1.1-color-PIN.pdf) and then hit the download button.
 
 ## A Picture of the "Color PIN Diagram" for the Octopus V1.0 and Octopus V1.1 Board:
 
-You can download the JPG file for this "Color PIN Diagram" by clicking on the file ["BIGTREETECH-Octopus-1.1-color-PIN.jpg"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_V1.1_Color_PIN_Diagram/BIGTREETECH-Octopus-1.1-color-PIN.jpg) and then hit the download button.  Again, to download the PDF just click on the filename ["BIGTREETECH-Octopus-V1.1-color-PIN.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_V1.1_Color_PIN_Diagram/BIGTREETECH-Octopus-V1.1-color-PIN.pdf) and hit the download button.
+You can download the JPG file for this "Color PIN Diagram" by clicking on the file ["BIGTREETECH-Octopus-1.1-color-PIN.jpg"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_V1.1_Color_PIN_Diagram/BIGTREETECH-Octopus-1.1-color-PIN.jpg) and then hit the download button.  Again, to download the PDF just click on the filename ["BIGTREETECH-Octopus-1.1-color-PIN.pdf"](https://github.com/GadgetAngel/BTT_Octopus_Color_PIN_Diagram/blob/main/BTT_Octopus_V1.1_Color_PIN_Diagram/BIGTREETECH-Octopus-1.1-color-PIN.pdf) and hit the download button.
 
 ![JPG of Color PIN Diagram](BIGTREETECH-Octopus-1.1-color-PIN.jpg)
 
@@ -29,11 +29,6 @@ You can download the JPG file for this "Color PIN Diagram" by clicking on the fi
 ## For Voron 2.4 builders:
 
 You can find Bigtreetech's Voron 2.4 wiring diagram at https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/blob/master/Octopus%20works%20on%20Voron%20v2.4/Firmware/BTT_OctoPus_Voron2.4_Wiring_English.pdf
-
-Here is a picture of the Voron 2.4 wiring harness diagram by Thomas White for the Octopus V1.0 or Octopus V1.1 board to the tool head (no tool head PCB). You can find Thomas White's Voron 2.4 wiring harness diagram in PDF format here in this repository.  To download the PDF just click on the filename "Voron_2.4_Octopus_Cable_Chain_wiring_by_Thomas_White.pdf" and hit the download button.
-
-![Original Wiring Diagram](Voron_2.4_Octopus_Cable_Chain_wiring_by_Thomas_White.JPG)
-
 
 ## Bigtreetech has a GitHub repository for the Octopus V1.0 and Octopus V1.1 Board:
 
