@@ -17,7 +17,7 @@ Now open Window explorer to the location of local clone.
 ```
 ## The Whole Repository in .zip file is located on Google Drive at:
 
-## https://drive.google.com/file/d/11bTR5gFDfYjIDhmuH7UM5cuNePOnEvbv/view?usp=sharing
+## xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 ## This Repository holds the "Color PIN Diagrams" for the Bigtreetech Octopus V1.0/V1.1 and the Octopus Pro V1.0 boards
@@ -30,7 +30,7 @@ In the directory ["BTT_Octopus_V1.1_Color_PIN_Diagram"](https://github.com/Gadge
 
 ## A Picture of the "Color PIN Diagram" for the Octopus Pro V1.0:
 
-![JPG of Color PIN Diagram for PRO](/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BIGTREETECH-Octopus-Pro-V1.0-color-PIN-V3.0.jpg)
+![JPG of Color PIN Diagram for PRO](/BTT_Octopus_Pro_V1.0_Color_PIN_Diagram/BTT-Octopus-Pro-V1.0-color-PIN.jpg)
 
 
 ## A Picture of the "Color PIN Diagram" for the Octopus V1.0 and Octopus V1.1 Board:
